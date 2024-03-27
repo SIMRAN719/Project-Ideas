@@ -16,7 +16,7 @@ The Interview Prep Chatbot is an AI-powered conversational agent designed to ass
 
 <summary> 2. Handwritten Text Generator </summary>
 
-### [2. Handwritten Text Generator](/Hand%20Written%20Text%20Generator/Hand_Written_Text_Generator.md)
+### [2. Handwritten Text Generator](/Handwritten%20Text%20Generator/Hand_Written_Text_Generator.md)
 
 To develop an AI-powered system that can analyze handwritten notes, generate stylized text based on the user's handwriting, and create realistic-looking handwritten texts or fonts that can be used across various platforms.
 
