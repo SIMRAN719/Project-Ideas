@@ -22,4 +22,12 @@ To develop an AI-powered system that can analyze handwritten notes, generate sty
 
 </details>
 
+<details> 
 
+<summary> 3. Text to PDF AI </summary>
+
+### [3. Text to PDF AI](/Handwritten%20Text%20Generator/Text_to_pdf_AI.md)
+
+The Text to PDF AI will be an AI-powered tool designed to transform plain text or text files into professionally formatted PDF documents. It will leverage advanced natural language processing (NLP) and layout optimization techniques to enhance the visual appeal and readability of the generated PDFs. It will analyze the text structure,and will apply appropriate formatting styles, handle tables and images, and generate a professional-looking PDF output.
+
+</details>
