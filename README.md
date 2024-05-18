@@ -31,3 +31,13 @@ To develop an AI-powered system that can analyze handwritten notes, generate sty
 The Text to PDF AI will be an AI-powered tool designed to transform plain text or text files into professionally formatted PDF documents. It will leverage advanced natural language processing (NLP) and layout optimization techniques to enhance the visual appeal and readability of the generated PDFs. It will analyze the text structure,and will apply appropriate formatting styles, handle tables and images, and generate a professional-looking PDF output.
 
 </details>
+
+<details> 
+
+<summary> 4. Linkedin Profile Analyzer </summary>
+
+### [3. LinkedIn profile Analyzer](/Linkedin%20Profile%20Analyser/Linkedin_Profile_Analyzer.md)
+
+The LinkedIn Profile Analyzer would be a tool that takes a LinkedIn profile URL, analyzes the profile, and generates a detailed summary. This project would leverages web scraping and natural language processing (NLP) techniques to extract and analyze professional information from LinkedIn profiles.
+
+</details>
