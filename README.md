@@ -36,7 +36,7 @@ The Text to PDF AI will be an AI-powered tool designed to transform plain text o
 
 <summary> 4. Linkedin Profile Analyzer </summary>
 
-### [3. LinkedIn profile Analyzer](/Linkedin%20Profile%20Analyser/Linkedin_Profile_Analyzer.md)
+### [3. LinkedIn profile Analyzer](/LinkedIn%20Profile%20Analyser/Linkedin_Profile_Analyzer.md)
 
 The LinkedIn Profile Analyzer would be a tool that takes a LinkedIn profile URL, analyzes the profile, and generates a detailed summary. This project would leverages web scraping and natural language processing (NLP) techniques to extract and analyze professional information from LinkedIn profiles.
 
